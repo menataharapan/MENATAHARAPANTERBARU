@@ -1,0 +1,112 @@
+{  
+
+"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "interval_intertitial": 4,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "id":1,
+      "judul":"Lagu Syahiba Saufa",
+      "image":"file:///android_asset/part01/sya.png",
+      "link":"https://play.google.com/store/apps/details?id=com.menataharapan.Syahiba.DangdutSaufa.Koplolengkap"
+    }
+  ],
+  "Weblink":
+  [
+    {
+      "id":1,
+      "judul":"PELET WANITA TERGILA GILA",
+      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "image":"file:///android_asset/part01/amalampeletwanita.JPG",
+      "link":"file:///android_asset/part01/chapter001.html"
+    },
+    {
+      "id":2,
+      "judul":"PELET WANITA DENGAN SENYUMAN",
+      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "image":"file:///android_asset/part01/amalampeletwanita.JPG",
+      "link":"file:///android_asset/part01/chapter002.html"
+    },
+    {
+      "id":3,
+      "judul":"PELET WANITA DENGAN KEDIPAN MATA",
+      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "image":"file:///android_asset/part01/amalampeletwanita.JPG",
+      "link":"file:///android_asset/part01/chapter003.html"
+    },
+    {
+      "id":4,
+      "judul":"PELET WANITA DENGAN PESAN SMS",
+      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "image":"file:///android_asset/part01/amalampeletwanita.JPG",
+      "link":"file:///android_asset/part01/chapter004.html"
+    },
+    {
+      "id":5,
+      "judul":"PELET WANITA DEWANING ASMORO",
+      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "image":"file:///android_asset/part01/amalampeletwanita.JPG",
+      "link":"file:///android_asset/part01/chapter005.html"
+    },
+    {
+      "id":6,
+      "judul":"PELET WANITA 1 MENIT",
+      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "image":"file:///android_asset/part01/amalampeletwanita.JPG",
+      "link":"file:///android_asset/part01/chapter006.html"
+    },
+    {
+      "id":7,
+      "judul":"PELET WANITA TATAPAN MATA",
+      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "image":"file:///android_asset/part01/amalampeletwanita.JPG",
+      "link":"file:///android_asset/part01/chapter007.html"
+    },
+    {
+      "id":8,
+      "judul":"PELET WANITA TANPA PUASA",
+      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "image":"file:///android_asset/part01/amalampeletwanita.JPG",
+      "link":"file:///android_asset/part01/chapter008.html"
+    },
+    {
+      "id":9,
+      "judul":"PELET WANITA SEMAR MESEM",
+      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "image":"file:///android_asset/part01/amalampeletwanita.JPG",
+      "link":"file:///android_asset/part01/chapter009.html"
+    },
+    {
+      "id":10,
+      "judul":"PELET WANITA AJI CONDRO BIROWO",
+      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "image":"file:///android_asset/part01/amalampeletwanita.JPG",
+      "link":"file:///android_asset/part01/chapter0010.html"
+    },
+    {
+      "id":11,
+      "judul":"PELET WANITA MENGGUNAKAN FOTO",
+      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "image":"file:///android_asset/part01/amalampeletwanita.JPG",
+      "link":"file:///android_asset/part01/chapter0011.html"
+    }
+  ]
+}
