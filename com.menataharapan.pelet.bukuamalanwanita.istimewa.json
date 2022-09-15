@@ -23,8 +23,7 @@
     "More":
   [
     {
-      "id":1,
-      "judul":"Lagu Syahiba Saufa",
+      "title":"Lagu Syahiba Saufa",
       "image":"file:///android_asset/part01/sya.png",
       "link":"https://play.google.com/store/apps/details?id=com.menataharapan.Syahiba.DangdutSaufa.Koplolengkap"
     }
@@ -32,79 +31,68 @@
   "Weblink":
   [
     {
-      "id":1,
-      "judul":"PELET WANITA TERGILA GILA",
-      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "title":"PELET WANITA TERGILA GILA",
+      "description":"AMALAN PEMIKAT WANITA",
       "image":"file:///android_asset/part01/amalampeletwanita.JPG",
       "link":"file:///android_asset/part01/chapter001.html"
     },
     {
-      "id":2,
-      "judul":"PELET WANITA DENGAN SENYUMAN",
-      "deskripsi":"AMALAN PEMIKAT WANITA",
+     "title":"PELET WANITA DENGAN SENYUMAN",
+      "description":"AMALAN PEMIKAT WANITA",
       "image":"file:///android_asset/part01/amalampeletwanita.JPG",
       "link":"file:///android_asset/part01/chapter002.html"
     },
     {
-      "id":3,
-      "judul":"PELET WANITA DENGAN KEDIPAN MATA",
-      "deskripsi":"AMALAN PEMIKAT WANITA",
+     "title":"PELET WANITA DENGAN KEDIPAN MATA",
+      "description":"AMALAN PEMIKAT WANITA",
       "image":"file:///android_asset/part01/amalampeletwanita.JPG",
       "link":"file:///android_asset/part01/chapter003.html"
     },
     {
-      "id":4,
-      "judul":"PELET WANITA DENGAN PESAN SMS",
-      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "title":"PELET WANITA DENGAN PESAN SMS",
+      "description":"AMALAN PEMIKAT WANITA",
       "image":"file:///android_asset/part01/amalampeletwanita.JPG",
       "link":"file:///android_asset/part01/chapter004.html"
     },
     {
-      "id":5,
-      "judul":"PELET WANITA DEWANING ASMORO",
-      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "title":"PELET WANITA DEWANING ASMORO",
+      "description":"AMALAN PEMIKAT WANITA",
       "image":"file:///android_asset/part01/amalampeletwanita.JPG",
       "link":"file:///android_asset/part01/chapter005.html"
     },
     {
-      "id":6,
-      "judul":"PELET WANITA 1 MENIT",
-      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "title":"PELET WANITA 1 MENIT",
+      "description":"AMALAN PEMIKAT WANITA",
       "image":"file:///android_asset/part01/amalampeletwanita.JPG",
       "link":"file:///android_asset/part01/chapter006.html"
     },
     {
-      "id":7,
-      "judul":"PELET WANITA TATAPAN MATA",
-      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "title":"PELET WANITA TATAPAN MATA",
+      "description":"AMALAN PEMIKAT WANITA",
       "image":"file:///android_asset/part01/amalampeletwanita.JPG",
       "link":"file:///android_asset/part01/chapter007.html"
     },
     {
-      "id":8,
-      "judul":"PELET WANITA TANPA PUASA",
-      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "title":"PELET WANITA TANPA PUASA",
+      "description":"AMALAN PEMIKAT WANITA",
       "image":"file:///android_asset/part01/amalampeletwanita.JPG",
       "link":"file:///android_asset/part01/chapter008.html"
     },
     {
-      "id":9,
-      "judul":"PELET WANITA SEMAR MESEM",
-      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "title":"PELET WANITA SEMAR MESEM",
+      "description":"AMALAN PEMIKAT WANITA",
       "image":"file:///android_asset/part01/amalampeletwanita.JPG",
       "link":"file:///android_asset/part01/chapter009.html"
     },
     {
-      "id":10,
-      "judul":"PELET WANITA AJI CONDRO BIROWO",
-      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "title":"PELET WANITA AJI CONDRO BIROWO",
+      "description":"AMALAN PEMIKAT WANITA",
       "image":"file:///android_asset/part01/amalampeletwanita.JPG",
       "link":"file:///android_asset/part01/chapter0010.html"
     },
     {
-      "id":11,
-      "judul":"PELET WANITA MENGGUNAKAN FOTO",
-      "deskripsi":"AMALAN PEMIKAT WANITA",
+      "title":"PELET WANITA MENGGUNAKAN FOTO",
+      "description":"AMALAN PEMIKAT WANITA",
       "image":"file:///android_asset/part01/amalampeletwanita.JPG",
       "link":"file:///android_asset/part01/chapter0011.html"
     }
