@@ -1,0 +1,208 @@
+{  
+
+"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "interval_intertitial": 4,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "title":"Resep Cemilan Kekinian",
+      "image":"file:///android_asset/part01/512.png",
+      "link":"https://play.google.com/store/apps/details?id=com.menataharapan.Resep.kekinian.viralCemilan"
+    }
+  ],
+  "Weblink":
+  [
+    {
+      "title":"Sosis Telur",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/sosistelurjajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter001.html"
+    },
+    {
+      "title":"Telur Gulung",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/telurgulungjajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter002.html"
+    },
+    {
+      "title":"Bola Bola Tahu Isi Telur",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/bolabolatahujajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter003.html"
+    },
+    {
+      "title":"Nugget Pisang",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/nuggetpisangjajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter004.html"
+    },
+    {
+      "title":"Pisang Goreng Madu",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/nuggetpisangjajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter005.html"
+    },
+    {
+      "title":"Frozen Banana",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/frozenpisangjajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter006.html"
+    },
+    {
+      "title":"Sate Nugget pisang",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/satenuggetpisangjajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter007.html"
+    },
+    {
+      "title":"Pie Pisang",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/satenuggetpisangjajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter008.html"
+    },
+    {
+      "title":"Banana Spring Roll",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/bananaspringrolljajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter009.html"
+    },
+    {
+      "title":"Pisang Krispi",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/pisangkrispijajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter0010.html"
+    },
+    {
+      "title":"Pisang Goreng Coklat",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/pisanggorengcokelatjajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter0011.html"
+    },
+    {
+      "title":"Pisang Geprek",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/pisanggeprekjajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter0012.html"
+    },
+    {
+      "title":"Sempol Ayam",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/sempolayamjajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter0013.html"
+    },
+    {
+      "title":"Martabak Mozarella",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/martabakmozarellajajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter0014.html"
+    },
+    {
+      "title":"Pillow Cake",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/pilowcakejajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter0015.html"
+    },
+    {
+      "title":"Donnat Indomie",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/donatindomijajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter0016.html"
+    },
+    {
+      "title":"Bola Ubi Kopong",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/bolaubikopongjajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter0017.html"
+    },
+    {
+      "title":"Salted Egg Fish Skin",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/saltedeggfishskinjajananusaha.JPG",
+      "link":"file:///android_asset/part01/chapter0018.html"
+    },
+    {
+      "title":"Kue Cubit Green Tea",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/cemilankuecubitgreentea.JPG",
+      "link":"file:///android_asset/part01/chapter0019.html"
+    },
+    {
+      "title":"Tokyo Banana",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/cemilantokyobananaalala.JPG",
+      "link":"file:///android_asset/part01/chapter0020.html"
+    },
+    {
+      "title":"Pizza Goreng",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/cemilanpizzagoreng.JPG",
+      "link":"file:///android_asset/part01/chapter0021.html"
+    },
+    {
+      "title":"Burger Hitam",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/cemilanburgerhitam.JPG",
+      "link":"file:///android_asset/part01/chapter0022.html"
+    },
+    {
+      "title":"Piscok",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/cemilanpiscok.JPG",
+      "link":"file:///android_asset/part01/chapter0023.html"
+    },
+    {
+      "title":"Cilok",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/cemilancilok.JPG",
+      "link":"file:///android_asset/part01/chapter0024.html"
+    },
+    {
+      "title":"Popcron Tahu",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/popcorntahu.JPG",
+      "link":"file:///android_asset/part01/chapter0025.html"
+    },
+    {
+      "title":"Puding Regal",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/puddingregal.JPG",
+      "link":"file:///android_asset/part01/chapter0026.html"
+    },
+    {
+      "title":"Baso Aci",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/basoaci.JPG",
+      "link":"file:///android_asset/part01/chapter0027.html"
+    },
+    {
+      "title":"Roti John",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/rotijhon.JPG",
+      "link":"file:///android_asset/part01/chapter0028.html"
+    },
+    {
+      "title":"Tahu Oatmeal",
+      "description":"RESEP CEMILAN KEKINIAN",
+      "image":"file:///android_asset/part01/tahuoamet.JPG",
+      "link":"file:///android_asset/part01/chapter0029.html"
+    }
+  ]
+}
