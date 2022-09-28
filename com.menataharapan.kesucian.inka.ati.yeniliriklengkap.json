@@ -1,0 +1,244 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "YENI INKA A",
+    "image": "file:///android_asset/image/BR.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "YENI INKA B",
+      "image": "file:///android_asset/image/BY.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "YENI INKA A",
+    "title": "KESUCIAN ATI",
+    "image": "file:///android_asset/image/BRBY.jpg",
+    "link_mp3": "mp3/KEHAYERI1.ogg",
+    "lyrics": "<p>Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iku wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iku wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati<br />Kesucian ati</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "YENI INKA A",
+    "title": "TIARA",
+    "image": "file:///android_asset/image/BRBY.jpg",
+    "link_mp3": "mp3/KEHAYERI2.ogg",
+    "lyrics": "<p>Tiara, menggamit kenangan zaman persekolahan<br />Tiara, kumimpi kita bersanding atas kayangan<br />Seakan bisa kusentuh peristiwa malam<br />Di malam pesta, engkau bisikkan kata azimat di telinga<br />Kita terpaksa berpisah untuk mencari arah</p><p><br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan berkeringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya berteman dengan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini?</p><p><br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?</p><p>&nbsp;</p><p>Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan berkeringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya berteman dengan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini?</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan berkeringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya berteman dengan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini?</p><p><br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "YENI INKA A",
+    "title": "TETEG ATI",
+    "image": "file:///android_asset/image/BRBY.jpg",
+    "link_mp3": "mp3/KEHAYERI3.ogg",
+    "lyrics": "<p>Ning pungkasan srengenge sore iki<br />Atiku iseh roso sumpek<br />Nanging sempet mikerke sliramu</p><p><br />Sing tak tresnani<br />Ning pungkasan rembulan wengi iki<br />Atiku iseh milih berjuang bertahan<br />Korban ati perasaan kanggo sliramu<br />Koco iki dadi seksi pedihe atiku<br />Kowe gawe ati sing tak jogo dadi gelo<br />Bola bali kowe sing salah<br />Nanging aku sing disalahke e</p><p><br />Mas perlu dingerteni<br />Teteg ke atiku wis koyo ibumu<br />Ora tau nggersulo ngadepi polahmu<br />Sing nggawe atiku atiku tatu</p><p><br />Ning pungkasan srengenge sore iki<br />Atiku iseh roso sumpek<br />Nanging sempet mikerke sliramu<br />Sing tak tresnani</p><p><br />Koco iki dadi seksi pedihe atiku<br />Kowe gawe ati sing tak jogo dadi gelo<br />Bola bali kowe sing salah</p><p><br />Nanging aku sing disalahke eii<br />Wis rapopo aku sing disalahno<br />Tapi elingo cen aku sing lilo<br />Dadi payung naliko udane teko<br />Mas perlu dingerteni</p><p><br />Tetegke atiku wis koyo ibumu<br />Ora tau nggersulo ngadepi polahmu<br />sing nggawe atiku atiku tatu<br />Senajan kowe mung nyepelekke<br />Ranging ati iki tetep tak kuatke<br />Sumpah ati iki</p><p><br />Setiyoku mung kanggo kowe<br />Selawase bebarengan karo kowe<br />Selawase ora bakal tak liyakke<br />sSelawase tetept eteg atine</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "YENI INKA A",
+    "title": "KLEBUS",
+    "image": "file:///android_asset/image/BRBY.jpg",
+    "link_mp3": "mp3/KEHAYERI4.ogg",
+    "lyrics": "<p>Dalane rame, atiku sepi<br />Angen-angen, tresno dibales tresno<br />Nyatane tresno dibales matur nuwun<br />Uwis nyaman, sempet sayang, kok malah ngilang</p><p><br />Meh lungo angel, bertahan loro<br />Nyobo selalu ono meski kowe ra ono roso<br />Roso sing jebul tak rasakne dhewe<br />Kebacut sayang, ngek'i harapan, kowe milih liyane</p><p><br />Langite peteng<br />Udane soyo deres klebus tekan atiku<br />Cedak'e karo aku<br />Nanging atimu dinggo wong liyo (dinggo wong liyo)</p><p><br />Wis dalane dadi pelarian<br />Dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane<br />Bagian sing nglarani aku wae<br />Ho-oh</p><p><br />Langite peteng<br />Udane soyo deres klebus tekan atiku<br />Cedak'e karo aku<br />Nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian<br />Dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane<br />Bagian sing nglarani</p><p><br />Wis dalane dadi pelarian<br />Dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane<br />Bagian sing nglarani aku wae</p><p><br />Bagianmu koyo biasane<br />Bagian sing nglarani aku wae</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "YENI INKA A",
+    "title": "OJO DIBANDINGKE",
+    "image": "file:///android_asset/image/BRBY.jpg",
+    "link_mp3": "mp3/KEHAYERI5.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "YENI INKA A",
+    "title": "JOKO TINGKIR",
+    "image": "file:///android_asset/image/BRBY.jpg",
+    "link_mp3": "mp3/KEHAYERI6.ogg",
+    "lyrics": "<p>Joko Tingkir ngombe dawet<br />Jo dipikir, marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />(Pantang mundur, terus nyambut gawe)</p><p>Ning Banyuwangi tuku ketan<br />Iki crito anak rantauan<br />Lombok rawit, pedes tenan<br />Golek duit kanggo masa depan<br />(Golek duit kanggo masa depan)</p><p>Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep s'mangat kanggo masa depan<br />(Tetep s'mangat kanggo masa depan)</p><p><br />Godong kenikir, godong koro<br />Jo dipikir aku arep ngeliyo<br />Mangan jamur, mangan koro<br />Aku jujur, kowe ra percoyo<br />(Aku jujur, kowe ra percoyo)</p><p><br />Joko Tingkir ngombe dawet<br />Jo dipikir, marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />(Pantang mundur, terus nyambut gawe)</p><p><br />Ning Banyuwangi tuku ketan<br />Iki crito anak rantauan<br />Lombok rawit, pedes tenan<br />Golek duit kanggo masa depan<br />(Golek duit kanggo masa depan)</p><p><br />Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep s'mangat kanggo masa depan<br />(Tetep s'mangat kanggo masa depan)</p><p><br />Godong kenikir, godong koro<br />Jo dipikir aku arep ngeliyo<br />Mangan jamur, mangan koro<br />Aku jujur, kowe ra percoyo<br />(Aku jujur, kowe ra percoyo)</p><p><br />Joko Tingkir ngombe dawet<br />Jo dipikir, marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />(Pantang mundur, terus nyambut gawe)</p><p><br />Joko Tingkir ngombe dawet<br />Jo dipikir, marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />(Pantang mundur, terus nyambut gawe)</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "YENI INKA A",
+    "title": "KOYO JOGJA",
+    "image": "file:///android_asset/image/BRBY.jpg",
+    "link_mp3": "mp3/KEHAYERI7.ogg",
+    "lyrics": "<p>Mangan tempe rasane<br />Koyo mangan lawuh sate<br />Senajan sak anane<br />Sing penting karo kowe</p><p><br />Ngombe kembang tahu rasane<br />Koyo ngombe susu<br />Rausah mecucu<br />Tresnoku ro kowe ra bakal tak madu</p><p><br />Bungah tenan rasane<br />Wong kang lagi gandrung<br />Tak perjuangke<br />Tekan janur melengkung</p><p><br />Kowe siji sijine<br />Aku bangga karo kowe<br />Gelem nompo opo anane<br />Tresnoku ra bakal mletre</p><p><br />Kowe ojo sumelang<br />Tresnoku ra bakal ilang<br />Ibarat koyo kuthoku jogja<br />Kowe cen istimewa.</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "YENI INKA A",
+    "title": "SATRU 2",
+    "image": "file:///android_asset/image/BRBY.jpg",
+    "link_mp3": "mp3/KEHAYERI8.ogg",
+    "lyrics": "<p>Wes tak pupuk winihe katresnanku<br />kanggo awakmu<br />Dungoku tuku lemu urip ayem<br />kanggo senengmu</p><p><br />Aku percoyo winih tresnamu, nandes mancep ing atiku<br />Opo kurang leh ku ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p><p><br />Aku ngenteni, aku ngertenimu huooo<br />huoo&hellip; opo kurang lehku, ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "YENI INKA A",
+    "title": "JOKO TINGKIR FAREL",
+    "image": "file:///android_asset/image/BRBY.jpg",
+    "link_mp3": "mp3/KEHAYERI9.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "YENI INKA A",
+    "title": "DERMAGA BIRU",
+    "image": "file:///android_asset/image/BRBY.jpg",
+    "link_mp3": "mp3/KEHAYERI10.ogg",
+    "lyrics": "<p>Deraian demi deraian air mata<br />Ku peluk mesra saat kita berpisah<br />Satu yang ku pinta, setialah padaku<br />Hanya dirimu ku cinta</p><p><br />Lambaian tangan mengiringi langkahku<br />Terasa berat kau melepas diriku<br />Tiada terniat kita untuk berpisah<br />Jangan kau ragu, sayangku<br />Dermaga biru saksi bisu</p><p><br />Walaupun ku terlanjur, sayang<br />Meninggalkan dia yang ku cinta<br />Namun hatiku terasa berat<br />Pahit manisnya ku telan jua</p><p><br />Tiada satu yang terindah<br />Selain dirimu yang ku sayang<br />Kau pelita hati di sanubariku<br />Pelipur lara suka dan duka</p><p><br />Lambaian tangan mengiringi langkahku<br />Terasa berat kau melepas diriku<br />Tiada terniat kita untuk berpisah<br />Jangan kau ragu, sayangku<br />Dermaga biru saksi bisu</p><p><br />Walaupun ku terlanjur, sayang<br />Meninggalkan dia yang ku cinta<br />Namun hatiku terasa berat<br />Pahit manisnya ku telan jua</p><p><br />Tiada satu yang terindah<br />Selain dirimu yang 'ku sayang<br />Kau pelita hati di sanubariku<br />Pelipur lara suka dan duka</p><p><br />Sabarlah, adindaku<br />Pasti ku kembali<br />Sabarlah, oh, kasihku<br />Pasti ku kembali</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "YENI INKA A",
+    "title": "SAYANG",
+    "image": "file:///android_asset/image/BRBY.jpg",
+    "link_mp3": "mp3/KEHAYERI11.ogg",
+    "lyrics": "<p>Sayang (Iya, Sayang?)<br />Ada sesuatu yang ingin kusampaikan<br />Mungkin malam ini ku tak bisa datang<br />Temani dirimu sayang</p><p><br />Sayang (aduh, Sayang)<br />Kabar itu tak perlu engkau sampaikan<br />Namun bisakah engkau beri alasan<br />Agar ku merasa tenang</p><p><br />Aku kecapean seharian cari uang<br />Badanku meriang, habis ku diguyur hujan</p><p><br />Selalu begitu alasan dirimu<br />Kalau gak kecapean<br />Kamu bilang cari uang<br />Habis itu macet di jalanan</p><p><br />Sayang<br />Kupercaya apa yang engkau katakan<br />Sebenarnya kuhanya ingin kau paham<br />Ku merindukanmu sayang</p><p><br />Sayang (abang sayang)<br />Cintaku ini hanya untukmu, Sayang<br />Jadi, jangan kau pikir ku beralasan<br />Karena ku tak bisa datang</p><p><br />Aku kecapean seharian cari uang<br />Badanku meriang, habis ku diguyur hujan</p><p><br />Selalu begitu alasan dirimu<br />Kalau gak kecapean<br />Kamu bilang cari uang<br />Habis itu macet di jalanan</p><p><br />Jujur kukatakan<br />Bukanlah alasan<br />Kan kamu sendiri yang bilang tahun ini juga<br />Kau minta, minta untuk dilamar</p><p><br />Selalu begitu alasan dirimu<br />Kalau gak kecapean<br />Kamu bilang cari uang<br />Habis itu macet di jalanan</p><p><br />Jujur kukatakan<br />Bukanlah alasan<br />Kan kamu sendiri yang bilang tahun ini juga<br />Kau minta, minta untuk dilamar</p><p><br />Selalu begitu alasan dirimu<br />Kalau gak kecapean<br />Kamu bilang cari uang<br />Habis itu macet di jalanan</p><p><br />Jujur kukatakan<br />Bukanlah alasan<br />Kan kamu sendiri yang bilang tahun ini juga<br />Kau minta, minta untuk dilamar</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "YENI INKA A",
+    "title": "FULL SENYUM SAYANG",
+    "image": "file:///android_asset/image/BRBY.jpg",
+    "link_mp3": "mp3/KEHAYERI12.ogg",
+    "lyrics": "<p>Mbok yo sing full senyum sayang <br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan, ayo kita healing</p><p><br />Bukane aku ora peduli<br />Tapi pancen kodemu angel dipahami<br />Ngomongo wae kabeh opo anane<br />Ben podo penake</p><p><br />Tak upayake kabeh penjalukmu<br />Tapi tulung ngerteni kahananku<br />Aku dudu turunan balungan gede<br />Sing turah warisane</p><p><br />Saben dino raimu peteng dedet<br />Marai sirah mumet, ati tambah ruwet<br />Kabeh ra kedaden<br />Yen diladeni iso geger geden</p><p><br />Mbok yo sing full senyum sayang <br />Ben aku semangat berjuang <br />Ojo nuruti gengsimu<br />Jelas-jelas aku ndak mampu</p><p><br />Mbok yo sing full senyum sayang <br />Ben aku soyo tambah sayang <br />Rasah pusing-pusing<br />Gek ndang dandan, ayo kita healing</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "YENI INKA A",
+    "title": "HUTANG",
+    "image": "file:///android_asset/image/BRBY.jpg",
+    "link_mp3": "mp3/KEHAYERI13.ogg",
+    "lyrics": "<p>Kau nak cepat kaya<br />Macam jual unta<br />Tapi kau sendiri<br />Malas nak usaha<br />Cerita sana sini<br />Gebang kau merata-rata</p><p><br />Pantang depan mata<br />Ada saja cerita<br />Tipu belit kawan<br />Macam ular sawa<br />Bila dah tahu kau lari berbatu<br />Macam kau nampak hantu</p><p><br />Cerita zaman dulu<br />Pak Kaduk gadai tanah<br />Dia laga ayam bukan kepunyaannya</p><p><br />Cerita zaman sekarang<br />Kau yang guna duit orang<br />Pabila pecah tembelang<br />Lari lintang pukang<br />Kau tak mampu bayar sekupang-pang (Alakazam)</p><p><br />Pok amai-amai belalang kupu-kupu<br />Bayar duit aku yang semua kau sapu<br />Kambing biri-biri ala sudah datang dari Jawa<br />Mana kau nak lari bawa duit tu kemana</p><p><br />Buai laju-laju buai sampailah pokok sena<br />Duitku beribu semua entah kemana<br />Memanda Fasola tikam di tapak kakinya<br />Dah memang kau salah kutaboh kau pun tak apa<br />Rampo ngiseng semar tilem</p><p><br />Cerita zaman dulu<br />Pak Kaduk gadai tanah<br />Dia laga ayam bukan kepunyaannya</p><p><br />Cerita zaman sekarang<br />Kau yang guna duit orang<br />Pabila pecah tembelang<br />Lari lintang pukang<br />Kau tak mampu bayar sekupang-pang (Ram pang-pang)</p><p><br />Pok amai-amai belalang kupu-kupu<br />Bayar duit aku yang semua kau sapu<br />Kambing biri-biri ala sudah datang dari Jawa<br />Mana kau nak lari bawa duit tu kemana</p><p><br />Buai laju-laju buai sampai pokok sena<br />Bayar hutang itu takut nanti kau merana<br />Memanda Fasola tikam di tapak kakinya<br />Dah memang kau salah kutaboh kau pun tak apa<br />Rampo ngiseng semar tilem</p><p><br />Cerita zaman dulu<br />Pak Kaduk gadai tanah<br />Dia laga ayam bukan kepunyaannya<br />Cerita zaman sekarang<br />Kau yang guna duit orang<br />Pabila pecah tembelang<br />Lari lintang pukang<br />Kau tak mampu bayar sekupang-pang</p><p><br />Pok amai-amai belalang kupu-kupu<br />Bayar duit aku yang semua kau sapu<br />Kambing biri-biri ala sudah datang dari Jawa<br />Mana kau nak lari bawa duit tu kemana<br />Buai laju-laju buai sampai pokok sena<br />Bayar hutang itu takut nanti kau merana<br />Memanda Fasola tikam di tapak kakinya<br />Dah memang kau salah kutaboh kau pun tak apa<br />Rampo ngiseng semar tilem<br />Rampo ngiseng semar tilem</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "YENI INKA A",
+    "title": "LALI JANJINE",
+    "image": "file:///android_asset/image/BRBY.jpg",
+    "link_mp3": "mp3/KEHAYERI14.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "YENI INKA B",
+    "title": "ACA ACA NEHI NEHI",
+    "image": "file:///android_asset/image/BY.jpg",
+    "link_mp3": "mp3/KEHAYERI15.ogg",
+    "lyrics": "<p>Mamamamama mau makan mau minum bikin sendiri<br />Cuci baju celana nyetrika pun sendiri<br />Apalagi bila tanggal tua mendekati<br />Aku bagai perawan yang tak punya suami</p><p><br />Nasib memang nasib jadi begini<br />Semuanya apa-apa ku lakukan sendiri<br />Lama-lama mumet juga eh kalo begini<br />Bisa talak tilu talak tilu</p><p><br />Alala tum jahe jahe aca aca nehi nehi<br />Aduh biyung inyong ora sudi<br />Bila sifatmu terus begitu</p><p><br />Pulang saja kau pulang ke rumah orang tuamu</p><p><br />Alala tum jahe jahe aca aca nehi nehi<br />Aduh biyung inyong ora sudi<br />Bila dirimu terus begitu<br />Aku pulangkan kamu</p><p>Hoo&hellip; maunya aku marah eh aku bingung sendiri<br />Baru mau ngomong eh malah ditinggal pergi<br />Mondar mandir sendiri bingung mau ngapain</p><p><br />Ampun gusti ampuni hambamu ini<br />Bila ada uang aku disayang<br />Bila tak ada, jatah kopi pun hilang<br />Lama-lama kalau begini rontok hatiku</p><p><br />Bisa talak tilu talak tilu<br />Alala tum jahe jahe aca aca nehi nehi<br />Aduh biyung inyong ora sudi<br />Bila sifatmu terus begitu</p><p><br />Pulang saja kau pulang ke rumah orang tuamu<br />Alala tum jahe jahe aca aca nehi nehi<br />Aduh biyung inyong ora sudi<br />Bila dirimu terus begitu<br />Aku pulangkan kamu</p><p><br />Jahe jahe alala tum jahe jahe</p><p><br />Nehi nehi aca aca nehi nehi<br />Jahe jahe alala tum jahe jahe<br />Aca aca aca nehi nehi nehi</p><p><br />Alala tum jahe jahe aca aca nehi nehi<br />Aduh biyung inyong ora sudi<br />Bila sifatmu terus begitu<br />Aku pulangkan kamu</p><p><br />Alalala tum jahe jahe aca aca nehi nehi<br />Aduh biyung inyong ora sudi<br />Bila sifatmu selalu begitu<br />Aku pulangkan kamu.</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "YENI INKA B",
+    "title": "ANGEL",
+    "image": "file:///android_asset/image/BY.jpg",
+    "link_mp3": "mp3/KEHAYERI16.ogg",
+    "lyrics": "<p>Ketika semuanya terasa begitu abot<br />Ku coba untuk tetap rapopo<br />Di saat cinta ini terasa angel<br />Angel</p><p><br />Tresno kuwi ra koyo instagram<br />Seng diklik langsung oleh ati<br />Duh gusti nopo kulo di prank<br />Ra kuat ati iki pas dee medot janji</p><p><br />Ayumu tenanan ora editan<br />Seng marai aku kedanan<br />Pancen salahku dewe ra ono seng ngongkon<br />Abot sanggane aku angel move on</p><p><br />Ketika semuanya terasa begitu abot<br />Ku coba untuk tetap rapopo<br />Di saat cinta ini terasa angel<br />Angel</p><p><br />Ku katakan dalam hati yo uwes<br />Menurutmu aku kudu piye<br />Apakah aku harus mengikutimu<br />Yo aku mengkis mengkis<br />Mengkis mengkis toh mas</p><p><br />Ayumu tenanan ora editan<br />Seng marai aku kedanan<br />Pancen salahku dewe ra ono seng ngongkon<br />Abot sanggane aku angel move on</p><p><br />Ketika semuanya terasa begitu abot<br />Ku coba untuk tetap rapopo<br />Di saat cinta ini terasa angel<br />Angel</p><p><br />Ku katakan dalam hati yo uwes<br />Menurutmu aku kudu piye<br />Apakah aku harus mengikutimu<br />Yo aku mengkis mengkis<br />Yo aku mengkis mengkis<br />Yo aku mengkis mengkis</p>"
+  },
+  {
+    "id": 17,
+    "name_category": "YENI INKA B",
+    "title": "BERLAYAR TAK BERTEPI",
+    "image": "file:///android_asset/image/BY.jpg",
+    "link_mp3": "mp3/KEHAYERI17.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "YENI INKA B",
+    "title": "BOJO LORO",
+    "image": "file:///android_asset/image/BY.jpg",
+    "link_mp3": "mp3/KEHAYERI18.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "YENI INKA B",
+    "title": "BUIH JADI PERMADANI",
+    "image": "file:///android_asset/image/BY.jpg",
+    "link_mp3": "mp3/KEHAYERI19.ogg",
+    "lyrics": "<p>Dinginnya angin malam ini<br />Menyapa tubuhku<br />Namun tidak dapat dinginkan panasnya<br />Hatiku ini<br />Terasa terhempasnya kelakianku ini<br />Dengan sikapmu<br />Apakah karna aku<br />Insan kekurangan<br />Mudahnya kau mainkan</p><p><br />Reff :</p><p><br />Oh mungkinkah diri ini</p><p><br />dapat merubah buih yang memutih<br />Menjadi permadani<br />Seperti pinta yang kau ucap<br />Dalam janji cinta<br />Juga mustahil bagiku<br />Menggapai bintang di langit<br />Siapalah diriku<br />Hanya insan biasa<br />Semua itu<br />Sungguh aku tiada mampu<br />Salah aku juga<br />Karna jatuh cinta<br />Insan seperti dirimu seanggun bidadari<br />Seharusnya aku</p><p><br />Cerminkan diriku<br />Sebelum tirai hati<br />Aku buka<br />Untuk mencintaimu</p>"
+  },
+  {
+    "id": 20,
+    "name_category": "YENI INKA B",
+    "title": "GERHANA DALAM CINTA",
+    "image": "file:///android_asset/image/BY.jpg",
+    "link_mp3": "mp3/KEHAYERI20.ogg",
+    "lyrics": "<p>Manalah ku tahu engkau suka<br />Dimata tak ada jejak cinta<br />Bagai di terik mentari<br />Hujan datang tiba-tiba</p><p><br />Keputusanmu memilih si dia<br />Membuat aku kecewa<br />Pertunanganmu hancurkan mimpiku<br />Aku tak menyangka<br />Akhirnya kau pilih dia</p><p><br />Lama ku simpan cinta ini<br />Engkau yang tak pernah peduli<br />Bukan bukanlah maksud hati<br />Maaf cintamu tak ku sadari</p><p><br />Tiada kini harapan lagi<br />Sampai mati kan aku sendiri<br />Jangan jangan kau patah hati<br />Jodoh hanya tuhan yang tau pasti</p><p><br />Haa aa aa aa aa<br />Ini sebab gerhana cinta</p><p><br />Haa aa aa aa aa<br />Sembunyi di hati yang lara</p><p><br />Haa aa aa aa aa<br />Terlambat menyatakan cinta</p><p><br />Haa aa aa aa aa<br />Tinggalah aku yang merana</p><p><br />Intro/Music</p><p><br />Manalah ku tahu engkau suka<br />Dimata tak ada jejak cinta<br />Bagai di terik mentari<br />Hujan datang tiba-tiba</p><p><br />Keputusanmu memilih si dia<br />Membuat aku kecewa<br />Pertunanganmu hancurkan mimpiku<br />Aku tak menyangka<br />Akhirnya kau pilih dia</p><p><br />Lama ku simpan cinta ini<br />Engkau yang tak pernah peduli<br />Bukan bukanlah maksud hati<br />Maaf cintamu tak ku sadari</p><p><br />Tiada kini harapan lagi<br />Sampai mati kan aku sendiri<br />Jangan jangan kau patah hati<br />Jodoh hanya tuhan yang tau pasti</p><p><br />Haa aa aa aa aa<br />Ini sebab gerhana cinta</p><p><br />Haa aa aa aa aa<br />Sembunyi di hati yang lara</p><p><br />Haa aa aa aa aa<br />Terlambat menyatakan cinta</p><p><br />Haa aa aa aa aa<br />Tinggalah aku yang merana</p>"
+  },
+  {
+    "id": 21,
+    "name_category": "YENI INKA B",
+    "title": "HARGA DIRI",
+    "image": "file:///android_asset/image/BY.jpg",
+    "link_mp3": "mp3/KEHAYERI21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "YENI INKA B",
+    "title": "INFONE MASE",
+    "image": "file:///android_asset/image/BY.jpg",
+    "link_mp3": "mp3/KEHAYERI22.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "YENI INKA B",
+    "title": "NGAMEN 5",
+    "image": "file:///android_asset/image/BY.jpg",
+    "link_mp3": "mp3/KEHAYERI23.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "YENI INKA B",
+    "title": "PECAH SERIBU",
+    "image": "file:///android_asset/image/BY.jpg",
+    "link_mp3": "mp3/KEHAYERI24.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "YENI INKA B",
+    "title": "REMBULAN MALAM",
+    "image": "file:///android_asset/image/BY.jpg",
+    "link_mp3": "mp3/KEHAYERI25.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "YENI INKA B",
+    "title": "WIDODARI",
+    "image": "file:///android_asset/image/BY.jpg",
+    "link_mp3": "mp3/KEHAYERI26.ogg",
+    "lyrics": ""
+  }
+  ]
+}
