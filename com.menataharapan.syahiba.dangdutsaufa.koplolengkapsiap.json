@@ -1,0 +1,268 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "X",
+      "main_ads_intertitial":"X",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "ANYAR",
+    "image": "file:///android_asset/image/SYA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/SYB.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "ANYAR",
+    "title": "TETEG ATI",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/1.mp3",
+    "lyrics": "<p>Wis rapopo aku sing disalahno<br />Tapi elingo cen aku sing lilo<br />Dadi payung naliko udane teko</p><p><br />Ning pungkasan srengenge sore iki<br />Atiku iseh roso sumpek<br />Nanging sempet mikerke sliramu<br />Sing tak tresnani</p><p><br />Ning pungkasan rembulan wengi iki<br />Atiku iseh milih berjuang bertahan<br />Korban ati perasaan kanggo sliramu</p><p><br />Koco iki dadi saksi pedihe atiku<br />Kowe gawe ati sing tak jogo dadi gelo<br />Bola-bali kowe sing salah<br />Nanging aku sing disalahne</p><p><br />Mas perlu dingerteni<br />Tetegke atiku wis koyo ibumu<br />Ora tau nggersulo ngadepi polahmu<br />Sing nggawe atiku, atiku tatu<br />Tatu hoo<br />Tatu, tatu, tatu</p><p><br />Ooo wis rapopo aku sing disalahno<br />Tapi elingo cen aku sing lilo<br />Dadi payung naliko udane teko</p><p><br />Mas perlu dingerteni<br />Tetegke atiku wis koyo ibumu<br />Ora tau nggersulo ngadepi polahmu<br />Sing nggawe atiku, atiku tatu</p><p><br />Senajan kowe mung nyepelekke<br />Tapi ati iki tetep tak kuatke<br />Sumpah ati iki<br />Setiyoku mung kanggo kowe<br />Selawase bebarengan karo kowe<br />Selawase ora bakal tak liyakke<br />Selawase tetep teteg atine</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "ANYAR",
+    "title": "JOKO TINGKIR",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/2.mp3",
+    "lyrics": "<p>Joko tingkir Ngombe dawet<br />Jo dipikir marai mumet<br />Ngopek jamur nggone mbah wage<br />Pantang mundur terus nyambut gawe</p><p>Ning Purwokerto Tuku Ketan<br />Iki Cerito Anak Rantauan<br />Lombok Rawit Pedes Tenan<br />Golek Duwet Kanggo Masa Depan</p><p>Rokok Klobot Ning Ngisor Wit Mlinjo<br />Paling Abot Ninggal Anak Bojo<br />Tuku Donat Ning Kalimantan<br />Tetep Semangat Kanggo Masa Depan</p><p>Godong Knikir Godong Koro<br />Ojo Dipikir Aku Arep Ngliyo<br />Mangan Jamur Mangan Koro<br />Aku Jujur Kowe Ora Percoyo</p><p>Joko Tingkir Ngombe dawet<br />Jo dipikir marai mumet<br />Ngopek jamur nggone mbah wage<br />Pantang mundur terus nyambut gawe</p><p>Ning Probolinggo Nggolek Jahe<br />Niat Lungo Arep Nyambut Gawe<br />Ning Sidoharjo Golek Waluh<br />Aku Kerjo Kowe Malah Selingkuh</p><p>Meriang Ngombe Wedang Jahe<br />Serba Salah Dadi TKW<br />Iwak Betik Iwa Lele<br />Obah Tithik Ra Enek Benere</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "ANYAR",
+    "title": "KESUCIAN ATI",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/3.mp3",
+    "lyrics": "<p>Isun welas nyang rika<br />Tulus teka ati nisun<br />Lan isun sing ngarepna<br />Paran baen iku wujude<br />Tekan rika</p><p><br />Apa kudu sun sujud lan nangisi<br />Welas asih iki?</p><p><br />Aja dipadhakna isun ambi wong liya<br />Merga isun sing sempurna<br />Aja dibedakna welas asih isun<br />Ambi gemerlape dunya<br />Kesucian ati</p><p>&nbsp;</p><p>Isun welas nyang rika<br />Tulus teka ati nisun<br />Lan isun sing ngarepna<br />Paran baen iku wujude, terima kasih<br />Tekan rika</p><p><br />Apa kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Aja dipadhakna isun ambi wong liya<br />Merga isun sing sempurna<br />Aja dibedakna welas asih isun<br />Ambi gemerlape dunya<br />Kesucian ati</p><p><br />Aja dipadhakna isun ambi wong liya<br />Merga isun sing sempurna<br />Aja dibedakna welas asih isun<br />Ambi gemerlape dunya<br />Kesucian ati</p><p><br />Kesucian ati</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "ANYAR",
+    "title": "OJO DIBANDINGKE",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/4.mp3",
+    "lyrics": "<p>Wong ko ngene kok dibanding-bandingke<br />Saing-saingke yo mesti kalah<br />Tak oyako aku yo ora mampu<br />Mung sak kuatku mencintaimu</p><p><br />Ku berharap engkau mengerti<br />Di hati ini hanya ada kamu</p><p><br />Jelas bedo yen dibandingke<br />Ora ono sing tak pamerke<br />Aku raiso yen kon gawe-gawe<br />Jujur sak onone</p><p><br />Sopo wonge sing ra loro ati<br />Wes ngancani tekan semene<br />Nanging kabeh ora ono artine<br />Ra ono ajine</p><p><br />Wong ko ngene kok dibanding-bandingke<br />Saing-saingke yo mesti kalah<br />Tak oyako aku yo ora mampu<br />Mung sak kuatku mencintaimu</p><p><br />Ku berharap engkau mengerti<br />Di hati ini hanya ada kamu</p><p><br />Sopo wonge sing ra loro ati<br />Wes ngancani tekan semene<br />Nanging kabeh ora ono artine<br />Ra ono ajine</p><p><br />Wong ko ngene kok dibanding-bandingke<br />Saing-saingke yo mesti kalah<br />Tak oyako aku yo ora mampu<br />Mung sak kuatku mencintaimu</p><p><br />Ku berharap engkau mengerti<br />Di hati ini hanya ada kamu</p><p><br />Wong ko ngene kok dibanding-bandingke<br />Saing-saingke yo mesti kalah<br />Tak oyako aku yo ora mampu<br />Mung sak kuatku mencintaimu</p><p><br />Ku berharap engkau mengerti<br />Di hati ini hanya ada kamu</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "ANYAR",
+    "title": "SATRU 2",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/5.mp3",
+    "lyrics": "<p>Nek kangen ngomong kangen<br />Ra sah tukaran wae<br />Mbok dieman-eman hubungane</p><p><br />Wes tak pupuk winihe katresnanku<br />Kanggo awakmu<br />Dungoku tukul lemu urip ayem<br />Kanggo senengmu</p><p><br />Aku percoyo winih tresnamu<br />Nandes mancep ing atiku<br />Opo kurang leh ku ngerteni karepmu<br />Aku yo wes ora ngelirik liyane</p><p><br />Nek kangen ngomong kangen<br />Ra sah tukaran ae<br />Mbok dieman-eman hubungane</p><p><br />Uwong sing tak tresnani<br />Tak gawe sandaran ati<br />Mbok ojo satru-satru wae sayangku</p><p><br />Jajal ra sah percoyo<br />Nek terimo kabar ko njobo<br />Aku kerjo, nguripimu<br />Nggo makmurne atimu</p><p><br />Aku ngenteni<br />Aku ngentenimu</p><p><br />Opo kurang leh ku ngerteni karepmu<br />Aku yo wes ora ngelirik liyane</p><p><br />Nek kangen ngomong kangen<br />Ra sah tukaran ae<br />Mbok dieman-eman hubungane</p><p><br />Uwong sing tak tresnani<br />Tak gawe sandaran ati<br />Mbok ojo satru-satru wae sayangku</p><p><br />Jajal ra sah percoyo<br />Nek terimo kabar ko njobo<br />Aku kerjo, nguripimu<br />Nggo makmurne atimu</p><p><br />Uwong sing tak tresnani<br />Tak gawe sandaran ati<br />Mbok ojo satru-satru wae sayangku</p><p><br />Jajal ra sah percoyo<br />Nek terimo kabar ko njobo<br />Aku kerjo, nguripimu<br />Nggo makmurne atimu</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "ANYAR",
+    "title": "CINTAKU",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/6.mp3",
+    "lyrics": "<p>Kerinduan<br />Yang kini ku rasakan<br />Terjawab sudah dengan hadirmu<br />Membawa kehangatan</p><p><br />Sekian lama<br />Kau do'a yang ku pintakan<br />Tuhan kirimkan engkau padaku<br />Mengisi kisah hidupku</p><p><br />Dalam sepiku kaulah candaku<br />Dalam gelapku kaulah pijarku<br />Dalam hatiku engkaulah cintaku</p><p><br />Kaulah lentera di dalam jiwa<br />Kuatkan raga peluk nan cinta<br />Semoga abadi cinta tuk selamanya</p><p><br />Sekian lama<br />Kau do'a yang ku pintakan<br />Tuhan kirimkan engkau padaku<br />Mengisi kisah hidupku</p><p><br />Dalam sepiku kaulah candaku<br />Dalam gelapku kaulah pijarku<br />Dalam hatiku engkaulah cintaku</p><p><br />Kaulah lentera di dalam jiwa<br />Kuatkan raga peluk nan cinta<br />Semoga abadi cinta tuk selamanya</p><p><br />Dalam sepiku kaulah candaku<br />Dalam gelapku kaulah pijarku<br />Dalam hatiku engkaulah cintaku</p><p><br />Kaulah lentera di dalam jiwa<br />Kuatkan raga peluk nan cinta<br />Semoga abadi cinta tuk selamanya</p><p><br />Semoga abadi cinta tuk selamanya</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "ANYAR",
+    "title": "SAYANG",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/7.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "ANYAR",
+    "title": "PECAH SERIBU",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/8.mp3",
+    "lyrics": "<p>Bimbang ragu<br />Sementara malam mulai datang<br />Hasratku ingin bercermin tapi<br />Cerminku pecah seribu, pecah seribu</p><p><br />Ibarat bunga<br />Aku takut banyak kumbang yang hinggap<br />Aku tak mau<br />Patah-patah, tangkaiku patah<br />Aku tak mau</p><p><br />Bimbang ragu<br />Sementara malam mulai datang<br />Hasratku ingin bercermin tapi<br />Cerminku pecah seribu, pecah seribu</p><p><br />Hanya dia</p><p><br />(Dia, dia, dia, dia, dia, dia, dia, dia, hanya dia)<br />Hanya dia yang ada di antara jantung hati<br />Tempat bermanja, tempatnya rindu<br />Tempat curahan hati yang damai</p><p>&nbsp;</p><p>Entah apa<br />Bagaikan kayu basah dimakan api<br />Api curiga, api cemburu<br />Api kerinduan yang membara</p><p>&nbsp;</p><p>Oh angin, kabarkan<br />Melati di depan rumahku menantimu<br />(Ha-ah-ah-ah)</p><p>Bimbang ragu<br />Sementara malam mulai datang<br />Hasratku ingin bercermin tapi<br />Cerminku pecah seribu, pecah seribu</p><p>&nbsp;</p><p>Ibarat bunga<br />Aku takut banyak kumbang yang hinggap<br />Aku tak mau<br />Patah-patah, tangkaiku patah<br />Aku tak mau</p><p>&nbsp;</p><p>Bimbang ragu<br />Sementara malam mulai datang<br />Hasratku ingin bercermin tapi<br />Cerminku pecah seribu, pecah seribu</p><p><br />Hanya dia<br />(Dia, dia, dia, dia, dia, dia, dia, dia, hanya dia)<br />Hanya dia yang ada di antara jantung hati<br />Tempat bermanja, tempatnya rindu<br />Tempat curahan hati yang damai</p><p><br />Entah apa<br />Bagaikan kayu basah dimakan api<br />Api curiga, api cemburu<br />Api kerinduan yang membara</p><p><br />Oh angin, kabarkan<br />Melati di depan rumahku menantimu</p><p><br />Bimbang ragu<br />Sementara malam mulai datang<br />Hasratku ingin bercermin tapi<br />Cerminku pecah seribu, pecah seribu</p><p><br />Duhai angin, kabarkanlah, melati menanti<br />Duhai angin, kabarkanlah, melati menanti<br />Duhai angin, kabarkanlah, melati menanti<br />Duhai angin, kabarkanlah, melati menanti</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "ANYAR",
+    "title": "MEMANDANGMU",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/9.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "ANYAR",
+    "title": "LEMAH TELES",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/10.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "ANYAR",
+    "title": "SALAM TRESNO",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/11.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "ANYAR",
+    "title": "WIDODARI",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/12.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "ANYAR",
+    "title": "DURI DURI",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/13.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "ANYAR",
+    "title": "MENDUNG TANPO UDAN",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/14.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "ANYAR",
+    "title": "WES TATAS",
+    "image": "file:///android_asset/image/SYA.jpg",
+    "link_mp3": "mp3/15.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "LENGKAP",
+    "title": "ANGIN NDALU",
+    "image": "file:///android_asset/image/SYB.jpg",
+    "link_mp3": "mp3/16.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "LENGKAP",
+    "title": "SALAM TRESNO",
+    "image": "file:///android_asset/image/SYB.jpg",
+    "link_mp3": "mp3/17.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "LENGKAP",
+    "title": "LUNGAMU NINGGAL KENANGAN",
+    "image": "file:///android_asset/image/SYB.jpg",
+    "link_mp3": "mp3/18.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "LENGKAP",
+    "title": "JANGAN TINGGALKAN AKU",
+    "image": "file:///android_asset/image/SYB.jpg",
+    "link_mp3": "mp3/19.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "LENGKAP",
+    "title": "NUTUPI LARAKU",
+    "image": "file:///android_asset/image/SYB.jpg",
+    "link_mp3": "mp3/20.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "LENGKAP",
+    "title": "JAJAL KOWE DADI AKU",
+    "image": "file:///android_asset/image/SYB.jpg",
+    "link_mp3": "mp3/21.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "LENGKAP",
+    "title": "BANYU MOTO",
+    "image": "file:///android_asset/image/SYB.jpg",
+    "link_mp3": "mp3/22.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "LENGKAP",
+    "title": "WELAS HANG RENG KENE",
+    "image": "file:///android_asset/image/SYB.jpg",
+    "link_mp3": "mp3/23.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "LENGKAP",
+    "title": "NINGGAL TATU",
+    "image": "file:///android_asset/image/SYB.jpg",
+    "link_mp3": "mp3/24.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "LENGKAP",
+    "title": "TAK LALEKNE KOWE",
+    "image": "file:///android_asset/image/SYB.jpg",
+    "link_mp3": "mp3/25.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "LENGKAP",
+    "title": "TURU NING DADANE",
+    "image": "file:///android_asset/image/SYB.jpg",
+    "link_mp3": "mp3/26.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "LENGKAP",
+    "title": "BALIK KANAN WAE",
+    "image": "file:///android_asset/image/SYB.jpg",
+    "link_mp3": "mp3/27.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "LENGKAP",
+    "title": "AKU RA MUNDUR",
+    "image": "file:///android_asset/image/SYB.jpg",
+    "link_mp3": "mp3/28.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "LENGKAP",
+    "title": "GEMANTUNG ROSO",
+    "image": "file:///android_asset/image/SYB.jpg",
+    "link_mp3": "mp3/29.mp3",
+    "lyrics": ""
+  }
+  ]
+}
