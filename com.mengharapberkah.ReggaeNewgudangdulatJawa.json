@@ -1,0 +1,276 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "REGGAE ANYAR",
+    "image": "file:///android_asset/image/RA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "REGGAE LENGKAP",
+      "image": "file:///android_asset/image/RL.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "REGGAE ANYAR",
+    "title": "JOKO TINGKIR",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA1.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "name_category": "REGGAE ANYAR",
+    "title": "TETEG ATI",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA2.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "REGGAE ANYAR",
+    "title": "OJO DIBANDINGKE",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA3.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "REGGAE ANYAR",
+    "title": "SATRU 2",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA4.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "REGGAE ANYAR",
+    "title": "INFONE MASE",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA5.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "REGGAE ANYAR",
+    "title": "CIDRO 3",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA6.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "REGGAE ANYAR",
+    "title": "LEMAH TELES",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA7.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "REGGAE ANYAR",
+    "title": "MADIUN NGAWI",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA8.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "REGGAE ANYAR",
+    "title": "TOP TOPAN",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA9.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "REGGAE ANYAR",
+    "title": "BUNGA",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA10.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "REGGAE ANYAR",
+    "title": "DADA SAYANG",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA11.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "REGGAE ANYAR",
+    "title": "SALAM TRESNO",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA12.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "REGGAE ANYAR",
+    "title": "BANYU MOTO",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA13.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "REGGAE ANYAR",
+    "title": "DALAN LIYANE",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA14.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "REGGAE ANYAR",
+    "title": "KELANGAN",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA15.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "REGGAE ANYAR",
+    "title": "KUPUJA PUJA",
+    "image": "file:///android_asset/image/RA.jpg",
+    "link_mp3": "mp3/REJAWKA16.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "REGGAE LENGKAP",
+    "title": "LILAKNO LUNGAKU",
+    "image": "file:///android_asset/image/RL.jpg",
+    "link_mp3": "mp3/REJAWKA17.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "REGGAE LENGKAP",
+    "title": "NINGGAL TATU",
+    "image": "file:///android_asset/image/RL.jpg",
+    "link_mp3": "mp3/REJAWKA18.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "REGGAE LENGKAP",
+    "title": "OJO GOBELOK MENCINTA",
+    "image": "file:///android_asset/image/RL.jpg",
+    "link_mp3": "mp3/REJAWKA19.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "REGGAE LENGKAP",
+    "title": "SAK ORA ORANE",
+    "image": "file:///android_asset/image/RL.jpg",
+    "link_mp3": "mp3/REJAWKA20.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "REGGAE LENGKAP",
+    "title": "TATU",
+    "image": "file:///android_asset/image/RL.jpg",
+    "link_mp3": "mp3/REJAWKA21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "REGGAE LENGKAP",
+    "title": "TITIPANE GUSTI",
+    "image": "file:///android_asset/image/RL.jpg",
+    "link_mp3": "mp3/REJAWKA22.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "REGGAE LENGKAP",
+    "title": "ORA MASALAH",
+    "image": "file:///android_asset/image/RL.jpg",
+    "link_mp3": "mp3/REJAWKA23.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "REGGAE LENGKAP",
+    "title": "KIDUNG WAHYU",
+    "image": "file:///android_asset/image/RL.jpg",
+    "link_mp3": "mp3/REJAWKA24.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "REGGAE LENGKAP",
+    "title": "BOJO GALAK",
+    "image": "file:///android_asset/image/RL.jpg",
+    "link_mp3": "mp3/REJAWKA25.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "REGGAE LENGKAP",
+    "title": "DITINGGAL RABI",
+    "image": "file:///android_asset/image/RL.jpg",
+    "link_mp3": "mp3/REJAWKA26.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "REGGAE LENGKAP",
+    "title": "RA JODO",
+    "image": "file:///android_asset/image/RL.jpg",
+    "link_mp3": "mp3/REJAWKA27.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "REGGAE LENGKAP",
+    "title": "SAWANGEN",
+    "image": "file:///android_asset/image/RL.jpg",
+    "link_mp3": "mp3/REJAWKA28.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "REGGAE LENGKAP",
+    "title": "SEWU KUTO",
+    "image": "file:///android_asset/image/RL.jpg",
+    "link_mp3": "mp3/REJAWKA29.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "name_category": "REGGAE LENGKAP",
+    "title": "SAYANG",
+    "image": "file:///android_asset/image/RL.jpg",
+    "link_mp3": "mp3/REJAWKA30.ogg",
+    "lyrics": ""
+  }
+  ]
+}
