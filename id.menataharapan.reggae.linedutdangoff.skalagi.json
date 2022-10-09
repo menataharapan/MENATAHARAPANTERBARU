@@ -1,0 +1,268 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "DANGDUT SKA A",
+    "image": "file:///android_asset/image/SKA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "DANGDUT SKA B",
+      "image": "file:///android_asset/image/SKB.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKA.jpg",
+    "link_mp3": "mp3/DAREGKS1.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKA.jpg",
+    "link_mp3": "mp3/DAREGKS2.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKA.jpg",
+    "link_mp3": "mp3/DAREGKS3.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKA.jpg",
+    "link_mp3": "mp3/DAREGKS4.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKA.jpg",
+    "link_mp3": "mp3/DAREGKS5.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKA.jpg",
+    "link_mp3": "mp3/DAREGKS6.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKA.jpg",
+    "link_mp3": "mp3/DAREGKS7.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKA.jpg",
+    "link_mp3": "mp3/DAREGKS8.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKA.jpg",
+    "link_mp3": "mp3/DAREGKS9.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKA.jpg",
+    "link_mp3": "mp3/DAREGKS10.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKA.jpg",
+    "link_mp3": "mp3/DAREGKS11.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKA.jpg",
+    "link_mp3": "mp3/DAREGKS12.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKA.jpg",
+    "link_mp3": "mp3/DAREGKS13.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKA.jpg",
+    "link_mp3": "mp3/DAREGKS14.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "DANGDUT SKA A",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS15.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "DANGDUT SKA B",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS16.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "DANGDUT SKA B",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS17.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "DANGDUT SKA B",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS18.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "DANGDUT SKA B",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS19.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "DANGDUT SKA B",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS20.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "DANGDUT SKA B",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "DANGDUT SKA B",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS22.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "DANGDUT SKA B",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS23.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "DANGDUT SKA B",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS24.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "DANGDUT SKA B",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS25.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "DANGDUT SKA B",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS26.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "DANGDUT SKA B",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS27.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "DANGDUT SKA B",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS28.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "DANGDUT SKA B",
+    "title": "",
+    "image": "file:///android_asset/image/SKB.jpg",
+    "link_mp3": "mp3/DAREGKS29.ogg",
+    "lyrics": ""
+  }
+  ]
+}
